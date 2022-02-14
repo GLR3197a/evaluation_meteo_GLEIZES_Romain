@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color: lightskyblue;
+    padding: 0 2em;
+    color: white;
+    
+}
+
+.titre{
+    color: blue;
+}
+
+.erreur{
+
+    border-width:3px;
+    border-style:double;
+    border-color:rgb(255, 0, 0);
+    font-size: 2em;
+
+}
+
+table{
+margin: auto;
+border-spacing: 5px;
+}
+th{
+text-align :center;
+}
+
+#prevition{
+    text-align: left;
+}
+
+#ville{
+    border: 1px solid blue;
+    background-color: cornflowerblue;
+    color: blue;
+}
+
+::placeholder {
+    color: blue;
+}
+
+.button{
+    border: 1px solid blue;
+    background-color: cornflowerblue;
+    border-radius: 8px;
+    color: blue;
+}
+
+.droite{
+    display: inline-block;
+    padding-left: 0.5em;
+    text-align: center;
+}
+
+
+
+.global{
+    padding: 1em 0;
+    margin: 1em 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0,0,0,0.5);
+}
+
